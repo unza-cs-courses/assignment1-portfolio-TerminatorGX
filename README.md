@@ -6,6 +6,108 @@
 **Weight:** 5% of final grade
 **Due:** Week 6, Friday 11:59 PM
 
+<!--
+============================================================
+CSC4035 Web Programming and Technologies
+Assignment 1: Responsive Portfolio Website
+============================================================
+
+My Information
+Name: Joshua Musonda
+Student ID: 2022752271
+Design Theme:
+This portfolio uses a modern dark corporate aesthetic with green accent hues. 
+The design emphasizes a professional cybersecurity and networking identity, 
+using a clean layout, minimal color palette, and responsive structure. 
+The dark theme creates a sleek and technical atmosphere often associated 
+with cybersecurity platforms, while the green accent color highlights 
+interactive elements such as buttons, links, and borders.
+
+------------------------------------------------------------
+
+CSS Techniques Used
+
+CSS Custom Properties (Variables)
+- Implemented in :root to maintain a consistent color palette, 
+  typography scale, spacing system, and transitions.
+
+Flexbox
+- Used in the navigation bar for aligning the logo and menu links.
+- Used in the footer for layout alignment.
+- Used for skills list badges and project link groups.
+
+CSS Grid
+- Used in the Projects section to create a responsive card layout.
+- Used in the About section to position the profile image and text 
+  side-by-side on larger screens while stacking on mobile devices.
+
+Media Queries
+- Mobile-first responsive design implemented.
+- Breakpoints used:
+  • 768px (tablet)
+  • 1024px (desktop)
+  • 1200px (large desktop)
+
+Other Techniques
+- CSS transitions for smooth hover effects
+- Sticky navigation header
+- Responsive images
+- Mobile hamburger navigation menu
+- CSS reset and box-sizing normalization
+
+------------------------------------------------------------
+
+Challenges & Solutions
+
+One of the main challenges was learning how to properly implement
+Flexbox and CSS Grid layouts. Understanding when to use Flexbox
+versus Grid required research and experimentation. Flexbox works
+well for one-dimensional layouts such as navigation bars and
+horizontal lists, while CSS Grid is more effective for
+two-dimensional layouts like the projects section where rows
+and columns are needed.
+
+Another challenge was designing a responsive layout that works
+well across multiple screen sizes. Implementing mobile-first
+design required structuring styles for smaller devices first
+and then expanding layouts using media queries for tablets
+and desktops.
+
+Through researching documentation, tutorials, and testing
+different layout structures, these challenges were resolved
+by applying Flexbox for alignment tasks and CSS Grid for
+structured content layouts.
+
+------------------------------------------------------------
+
+Credits
+
+Images:
+- Personal images and project screenshots used in this portfolio
+  are the property of Joshua Musonda.
+
+- cyber.jpg image sourced from Bing image search for educational
+  demonstration purposes.
+
+Fonts:
+- System font stack used:
+  - Segoe UI
+  - Roboto
+  - Arial
+  - System default sans-serif fonts
+
+Tools & Resources:
+- HTML5 and CSS3 documentation
+- MDN Web Docs (developer.mozilla.org)
+- W3Schools CSS and HTML reference
+- Visual Studio Code for development
+- Lovable AI development platform used for the SYN Studio project
+
+============================================================
+-->
+
+
+
 ---
 
 ## Overview
